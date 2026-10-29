@@ -1,0 +1,8 @@
+
+streamlit>=1.40,<2.0
+langchain-core>=0.3,<2.0
+langchain-ollama>=0.2,<2.0
+jupyter>=1.0
+ipykernel>=6.0
+nbformat>=5.9
+python-pptx>=1.0
